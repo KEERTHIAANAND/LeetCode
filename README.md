@@ -1,11 +1,6 @@
 # Daily-LeetCode 🚀
 > "Self-discipline is the power to say no to distractions and yes to growth." 🚫📱 ➡️ 💻
 
-### 📊 My Progress
-- **Total Problems Solved:** [Use your LeetCode profile number]
-- **Current Streak:** 50+ Days 🏆
-- **Language:** Java ☕
-
 ---
 
 ### 📚 Problem Archive
