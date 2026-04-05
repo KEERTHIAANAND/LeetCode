@@ -7,8 +7,9 @@
 
 | # | Title | Difficulty | Solution | Topic |
 |---|---|---|---|---|
-| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Java](./Medium/0328-odd-even-linked-list/) | Linked List |
-| 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [Java](./Easy/0441-arranging-coins/) | Math |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [C++](./Math/0069-sqrtx/) | Math / Binary Search |
+| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [Java](./Linked%20List/0328-odd-even-linked-list/) | Linked List |
+| 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [C](./Math/0441-arranging-coins/) | Math |
 
 ---
 
@@ -30,16 +31,6 @@ node update-leetcode-profile.mjs --username <your-leetcode-username>
 **Ranking:** 866747  
 **Reputation:** 7  
 **Star Rating:** 2  
-**Last Updated:** 2026-04-05T07:44:43.815Z
+**Last Updated:** 2026-04-05T07:58:51.283Z
 <!-- LEETCODE_PROFILE:END -->
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/KEERTHIAANAND/LeetCode/tree/master/0069-sqrtx) |
-## Binary Search
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/KEERTHIAANAND/LeetCode/tree/master/0069-sqrtx) |
-<!---LeetCode Topics End-->
