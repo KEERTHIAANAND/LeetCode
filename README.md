@@ -32,3 +32,14 @@ node update-leetcode-profile.mjs --username <your-leetcode-username>
 **Star Rating:** 2  
 **Last Updated:** 2026-04-05T07:44:43.815Z
 <!-- LEETCODE_PROFILE:END -->
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KEERTHIAANAND/LeetCode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KEERTHIAANAND/LeetCode/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
