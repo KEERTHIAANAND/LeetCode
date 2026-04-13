@@ -27,6 +27,7 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | [C](./Math/0441-arranging-coins/) | Math |
 | 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium | [Java](./Linked%20List/0445-add-two-numbers-ii/) | Linked List |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Java](./Linked%20List/0705-design-hashset/) | Design / Hash Table |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | [Java](./Daily%20Challenge/1848-minimum-distance-to-the-target-element/) | Array |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Medium | [Java](./Linked%20List/3217-delete-nodes-from-linked-list-present-in-array/) | Linked List / Hash Table |
 
 <!---LeetCode Topics End-->
