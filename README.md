@@ -28,6 +28,7 @@
 | 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | Medium | [Java](./Linked%20List/0445-add-two-numbers-ii/) | Linked List |
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [Java](./Linked%20List/0622-design-circular-queue/) | Design / Queue |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Java](./Linked%20List/0705-design-hashset/) | Design / Hash Table |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Java](./Linked%20List/0876-middle-of-the-linked-list/) | Linked List / Two Pointers |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | Easy | [Java](./Daily%20Challenge/1848-minimum-distance-to-the-target-element/) | Array |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Medium | [Java](./Linked%20List/3217-delete-nodes-from-linked-list-present-in-array/) | Linked List / Hash Table |
 
