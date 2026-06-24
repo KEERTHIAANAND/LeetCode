@@ -8,8 +8,6 @@ class Solution {
             squareSum += (rem*rem);
             n/=10;
         }
-        if(squareSum - digitSum >= 50)
-            return true;
-        return false;
+        return squareSum - digitSum >= 50;
     }
 }
